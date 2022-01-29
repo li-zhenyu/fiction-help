@@ -7,11 +7,11 @@
 从 网站 批量 下载 网络 小说 并且 用 latex 生成pdf。
 ## 依赖
 
-texlive 2021	http//tug.org
+texlive 2021	http://tug.org
 
 Python3.8+
 
-pip install pylatex lxml requests
+``` pip install pylatex lxml requests ```
 
 Windows 10 (only)
 
