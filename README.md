@@ -12,15 +12,11 @@
 
 ## 依赖
 
-texlive 2021	http://tug.org
-
-Python3.8+  http://python.org
-
-pandoc  http://pandoc.org
-
-``` pip install pylatex lxml requests ```
-
-Windows 10 (only)
+- texlive 2021	http://tug.org
+- Python3.8+  http://python.org
+- pandoc  http://pandoc.org
+- ``` pip install pylatex lxml requests ```
+- Windows 10 (only)
 
 ## 特性
 1. 使用一个 links.txt 输入多个目录链接
@@ -34,11 +30,9 @@ Windows 10 (only)
 
 ## 测试平台
 
-Windows 10
-
-texlive 2021
-
-Python 3.9
+- Windows 10
+- texlive 2021
+- Python 3.9
 
 ## 支持网站
 
