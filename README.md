@@ -9,7 +9,9 @@
 
 texlive 2021	http://tug.org
 
-Python3.8+
+Python3.8+  http://python.org
+
+pandoc  http://pandoc.org
 
 ``` pip install pylatex lxml requests ```
 
