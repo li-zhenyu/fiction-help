@@ -4,7 +4,7 @@
 
 ## 功能
 
-从 网站 批量 下载 网络 小说 并且 用 latex 生成pdf。
+从 网站 批量 下载 网络 小说 并且 用 latex 生成 pdf，用 pandoc 生成 epub。
 ## 依赖
 
 texlive 2021	http://tug.org
